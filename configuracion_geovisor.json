@@ -13,3 +13,5 @@
   // Es muy útil para despliegue estático (como GitHub Pages) donde no se pueden escanear carpetas dinámicamente:
   "capas_a_cargar": [
     "CB_COONAPIP_2135_WGS84_a.json"
+  ]
+}
